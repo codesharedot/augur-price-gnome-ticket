@@ -1,5 +1,8 @@
-# augur price gnome ticket 
+# augur gnome price ticker
 
-Gnome 3 desktop ticker for augur price with Python and argos. Rename to augur.1r.60s.py and put in ~/.config/argos
+Get augur price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/augur-price-gnome-ticket/](https://codesharedot.github.io/augur-price-gnome-ticket/)
 
-https://pythonbasics.org
+augur price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to augur.1r60s.py and put in ~/.config/argos
